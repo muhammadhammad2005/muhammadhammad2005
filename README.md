@@ -1,4 +1,14 @@
-<h2 align="center">Hi 👋! My name is Muhammad Hammad, and I'm from Pakistan</h2>
+<div align="center">
+  <img height="340" src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYwNTQ4NDIsIm5iZiI6MTczNjA1NDU0MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA1VDA1MjIyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTg3Yjk5YjUzMzdiNmVmODk0OWY0MWI3MjY2N2M1MGNmMWI2ZDU0ZjQxMWE0MjhhOTUwNjhkZjM3ODc5NmY2ZjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.QnXzy1OgBFlaOe-y4AmuicJqLv1bRJcHnGrln8C9A2s"  />
+</div>
+
+###
+
+<h1 align="center">Hi 👋! My name is Muhammad Hammad, and I'm from Pakistan</h1>
+
+###
+
+<p align="left">✨WORKING ON✨</p>
 
 ###
 
@@ -25,6 +35,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="apache logo"  />
 </div>
+
+###
+
+<p align="left">🤝CONNECT ME🤝</p>
 
 ###
 
@@ -78,7 +92,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
+  <img height="50" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
 ###
@@ -86,7 +100,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
 </div>
 
 ###
