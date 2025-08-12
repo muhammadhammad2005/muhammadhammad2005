@@ -1,94 +1,44 @@
-<br clear="both">
+# Hi, I'm Muhammad Hammad👋  
+**DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD**
 
-<div align="center">
-  <img height="300" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
-</div>
-
----
-
-<h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD | Bash | Python | YAML</h3>
-<p align="center">🌏 Based in Pakistan | 🚀 Passionate about Cloud & Automation</p>
+💡 Passionate about building scalable, secure, and automated cloud solutions. Skilled in **AWS, containerization, infrastructure as code, and CI/CD pipelines**.
 
 ---
 
-## 🔹 About Me
-- 💻 Currently pursuing **AIOps Level 6 Diploma** at **Al-Nafi International College**  
-- ☁️ Skilled in **AWS, Linux, Docker, Kubernetes, Terraform, Ansible**  
-- ⚙️ Experienced in **CI/CD pipelines** (GitHub Actions, Jenkins)  
-- 🛠️ Strong scripting skills in **Bash, Python, and YAML**  
-- 📈 Focused on building **scalable, secure, and automated cloud solutions**  
+## 🛠️ Tech Stack & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/yaml/CB171E" height="45" alt="YAML" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="45" alt="Red Hat" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="45" alt="Fedora" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="45" alt="Ubuntu" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" alt="Apache" />
-</div>
-
----
-
-## 📂 Featured Projects
+## 📌 Featured Projects
 
 - **[EC2 Management Dashboard](https://github.com/yourusername/ec2-management-dashboard)**  
-  Automates AWS EC2 operations (start/stop/monitor) with Flask & Boto3.
+  Automates AWS EC2 instance operations with Flask & Boto3. Includes start, stop, and monitoring features.
 
 - **[S3 Bucket File Manager](https://github.com/yourusername/s3-bucket-file-manager)**  
-  Web-based AWS S3 bucket management tool built with Flask.
+  Web interface to browse, upload, and manage AWS S3 files. Built with Flask, AWS SDK, and Bootstrap.
 
 - **[Face Recognition App](https://github.com/yourusername/face-recognition-app)**  
-  Python & OpenCV Flask application with gender prediction.
+  Python + OpenCV + Flask app with gender prediction and visualization.
 
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammadhammad2005&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhammad2005&layout=compact&theme=dracula" height="150" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
 ---
 
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=flat" height="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-hammad-76ba44329/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=flat" height="40" />
-  </a>
-  <a href="https://wa.me/+923192482979" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&color=25D366&logoColor=white&style=flat" height="40" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" />
-</div>
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](your-portfolio-url)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
