@@ -61,9 +61,8 @@
 
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
-🎤 Available for **Guest Sessions / Webinars**  
-🤝 Open to **Project Collaborations / YouTube Collabs**  
-💼 Offering **DevOps Consulting / Mentorship**  
-📧 Let’s chat: [office@devopsshack.com](mailto:office@devopsshack.com)
+🎤 Available for **Guest Sessions / Technical Talks on Linux, AWS, and Automation**  
+🤝 Open to **Cloud & DevOps Project Collaborations**  
+📧 Let’s chat: mohammadhammad.tech@gmail.com
 
 > *"From scripts to clouds — building smarter systems every day. Let’s build and automate the future!"*
