@@ -1,7 +1,9 @@
 <h1 align="center">Hey Everyone 👋, I'm Muhammad Hammad</h1>
 
+![Banner](banner.gif)
+
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="DevOpsShack Banner">
+  <img src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/Banner.gif" alt="DevOps Banner">
 </div>
 
 <h3 align="center">DevOps Engineer | AWS | Docker | Kubernetes | Terraform | Ansible | CI/CD</h3>
