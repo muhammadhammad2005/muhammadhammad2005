@@ -24,7 +24,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/muhammadhammad2005](https://github.com/muhammadhammad2005)   
-- 💬 Ask me about **DevOps & Cloud DevOps**  
+- 💬 Ask me about **DevOps, Cloud and Kubernetes**  
 - 📫 How to reach me **mohammadhammad.tech@gmail.com**
 
 ---
@@ -55,14 +55,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="Nginx"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadhammad2005&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadhammad2005&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
 ### 👨‍💼 About Me & 🤝 Open to Collaborations
 
 🎤 Available for **Guest Sessions / Technical Talks on Linux, AWS, and Automation**  
-🤝 Open to **Cloud & DevOps Project Collaborations**  
+🤝 Open to **DevOps, Cloud and Kubernetes Project Collaborations**  
 📧 Let’s chat: mohammadhammad.tech@gmail.com
 
 > *"From scripts to clouds — building smarter systems every day. Let’s build and automate the future!"*
