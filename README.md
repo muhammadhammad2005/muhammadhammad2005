@@ -9,7 +9,7 @@ DevOps & Cloud Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD 
 
 <p align="center">
 <span style="display:inline-block; max-width: 700px; text-align: center;">
-I design, build, and automate <b>scalable cloud infrastructure</b> with a strong focus on <b>Linux</b> and <b>AWS</b>, working hands-on with <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure automation</b>, while continuously sharpening my <b>DevOps</b> and <b>cloud</b> skills through <b>real-world projects</b>.
+I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Linux</b> and <b>AWS</b>, working hands-on with <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure automation</b>, while sharpening my <b>DevOps</b> and <b>cloud</b> skills through <b>real-world projects</b>.
 </span>
 </p>
 
