@@ -4,7 +4,7 @@ DevOps & Cloud Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD 
 </h3>
 
 <div align="center">
-  <img src="assets/Banner.webp" alt="DevOps Banner" width="800" />
+  <img src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/assets/Banner.gif" alt="DevOps Banner" />
 </div>
 
 <p align="center">
