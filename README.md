@@ -26,19 +26,19 @@ I design, build, and automate cloud infrastructure with a focus on Linux and AWS
 
 <img align="right"
      alt="Coder GIF"
-     width="315"
-     style="margin-left: 30px; margin-top: 70px;"
+     width="280"
+     style="margin-left: 30px; margin-top: 85px;"
      src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/assets/image.gif" />
 
 - Managing and troubleshooting Linux-based systems  
 - Designing and deploying AWS cloud infrastructure  
-- Working with AWS services including EKS, ECR, ECS, VPC, S3, EC2 and RDS 
+- Working with AWS services including EKS, ECR, ECS, VPC, S3, EC2, and RDS  
 - Containerizing applications using Docker containers  
 - Orchestrating containerized workloads using Kubernetes  
 - Managing infrastructure as code using Terraform  
 - Handling configuration management using Ansible  
 - Writing automation scripts using Bash, Python, and YAML  
-- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins
+- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
 
