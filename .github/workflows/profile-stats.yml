@@ -1,0 +1,33 @@
+name: GitHub Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          username: muhammadhammad2005
+          theme: transparent
+
+      - name: Move generated files to stats folder
+        run: |
+          mkdir -p stats
+          cp profile-summary-card-output/transparent/*.svg stats/
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add stats
+          git commit -m "Update GitHub profile stats" || exit 0
+          git push
