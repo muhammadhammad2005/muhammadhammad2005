@@ -40,7 +40,7 @@ jobs:
           UTC_OFFSET: 5
           AUTO_PUSH: false   # We'll handle commit manually
         env:
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.TOKEN }}
 
       # Step 6: Commit and push changes only if there are any
       - name: Commit and push changes
