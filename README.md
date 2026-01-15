@@ -79,3 +79,14 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
 
 > *From Linux terminals to AWS cloud infrastructure — building, automating, and learning every day.*
+
+<div align="center">
+
+<!-- Live GitHub stats cards (connected to your account) -->
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+
+</div>
