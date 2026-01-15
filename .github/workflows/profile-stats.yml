@@ -35,7 +35,7 @@ jobs:
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
         with:
-          USERNAME: ${{ github.actor }}
+          USERNAME: muhammadhammad2005
           BRANCH_NAME: main
           UTC_OFFSET: 5
           AUTO_PUSH: false
