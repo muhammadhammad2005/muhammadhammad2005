@@ -31,7 +31,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      # Step 5: Generate Profile Summary Cards
+      # Step 5: Generate Profile Summary Cards using your PAT
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
         with:
@@ -40,12 +40,12 @@ jobs:
           UTC_OFFSET: 5
           AUTO_PUSH: false   # We'll handle commit manually
         env:
-          TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_PAT }}
 
       # Step 6: Commit and push changes only if there are any
       - name: Commit and push changes
         run: |
-          git add ./profile-summary-card-output
+          git add ./profile-summary-card-output || echo "No files to add"
           if ! git diff --cached --quiet; then
             git commit -m "Update profile summary cards"
             git push origin main
