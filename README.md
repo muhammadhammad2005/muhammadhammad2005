@@ -76,11 +76,9 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 📫 **Contact:** mohammadhammad.tech@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/mhammadtech/
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
-
 > *From Linux terminals to AWS cloud infrastructure — building, automating, and learning every day.*
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
