@@ -35,11 +35,10 @@ jobs:
       - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@v0.6.1
         with:
-          USERNAME: muhammadhammad2005        # Your GitHub username
+          USERNAME: muhammadhammad2005
           BRANCH_NAME: main
           UTC_OFFSET: 5
           AUTO_PUSH: false
-          TOKEN: ${{ secrets.MY_PAT }}       # Your PAT secret
 
       # Step 6: Commit and push changes using PAT
       - name: Commit and push changes
@@ -47,7 +46,6 @@ jobs:
           git add ./profile-summary-card-output || echo "No files to add"
           if ! git diff --cached --quiet; then
             git commit -m "Update profile summary cards"
-            # Authenticate using PAT for push
             git remote set-url origin https://x-access-token:${{ secrets.MY_PAT }}@github.com/${{ github.repository }}.git
             git push origin main
           else
