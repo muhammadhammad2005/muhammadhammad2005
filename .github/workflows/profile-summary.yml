@@ -3,7 +3,7 @@ name: GitHub Profile Summary Cards
 on:
   push:
     branches:
-      - main  # or your default branch
+      - main
   pull_request:
     branches:
       - main
