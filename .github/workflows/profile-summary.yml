@@ -1,8 +1,12 @@
 name: GitHub Profile Summary Cards
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main 
+  pull_request:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
@@ -19,15 +23,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      - name: Apply yellow theme (transparent only)
-        run: |
-          chmod +x scripts/yellow-theme.sh
-          bash scripts/yellow-theme.sh
-
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add profile-summary-card-output/transparent
-          git commit -m "Apply yellow theme to transparent profile stats" || echo "No changes to commit"
+          git commit -m "Update profile summary cards" || echo "No changes to commit"
           git push
