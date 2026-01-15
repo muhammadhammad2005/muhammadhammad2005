@@ -1,15 +1,10 @@
-#!/usr/bin/env bash
-set -e
+#!/bin/bash
 
-TARGET_DIR="profile-summary-card-output/transparent"
-NEW_COLOR="#facc15"
+TARGET="profile-summary-card-output/transparent"
 
-# Only replace known blue tones used by the cards
-sed -i \
-  -e 's/#2f80ed/'"$NEW_COLOR"'/g' \
-  -e 's/#1f6feb/'"$NEW_COLOR"'/g' \
-  -e 's/#0969da/'"$NEW_COLOR"'/g' \
-  -e 's/rgb(47, 128, 237)/'"$NEW_COLOR"'/g' \
-  "$TARGET_DIR"/*.svg
+# Primary blue → yellow
+sed -i 's/#006AFF/#F5C518/g' $TARGET/*.svg
+sed -i 's/#0579C3/#F5C518/g' $TARGET/*.svg
 
-echo "✅ Yellow theme applied ONLY to transparent cards"
+# Secondary text → muted yellow
+sed -i 's/#417E87/#C9B458/g' $TARGET/*.svg
