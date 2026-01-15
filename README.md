@@ -80,13 +80,16 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 
 > *From Linux terminals to AWS cloud infrastructure — building, automating, and learning every day.*
 
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
+
 <div align="center">
+  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
+  <br><br>
 
-<!-- Live GitHub stats cards (connected to your account) -->
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/commits-per-language?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadhammad2005&theme=transparent)](https://github.com/muhammadhammad2005)
+  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+  <br><br>
 
+  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
