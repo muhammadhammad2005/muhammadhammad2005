@@ -4,9 +4,6 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
   workflow_dispatch:
 
 jobs:
@@ -16,8 +13,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # Generate only transparent cards
-      - name: Generate transparent summary cards
+      # Generate cards
+      - name: Generate profile summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: muhammadhammad2005
@@ -25,7 +22,18 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # Commit only the transparent folder
+      # Delete all non-transparent themes
+      - name: Keep only transparent folder
+        run: |
+          cd profile-summary-card-output
+          for d in */ ; do
+            if [ "$d" != "transparent/" ]; then
+              rm -rf "$d"
+            fi
+          done
+          cd ..
+
+      # Commit only transparent
       - name: Commit changes
         run: |
           git config user.name "github-actions"
