@@ -16,27 +16,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1️⃣ Generate all cards
-      - name: Generate profile summary cards
+      # Generate only transparent cards
+      - name: Generate transparent summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: muhammadhammad2005
+          THEME: transparent
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 2️⃣ Keep only transparent folder
-      - name: Remove all non-transparent folders
-        run: |
-          cd profile-summary-card-output
-          for f in *; do
-            if [ "$f" != "transparent" ]; then
-              echo "Removing $f"
-              rm -rf "$f"
-            fi
-          done
-          cd ..
-
-      # 3️⃣ Commit only the transparent folder
+      # Commit only the transparent folder
       - name: Commit changes
         run: |
           git config user.name "github-actions"
