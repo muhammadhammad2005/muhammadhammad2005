@@ -1,4 +1,4 @@
-name: Workflow
+name: GitHub Profile Summary Cards
 
 on:
   push:
@@ -30,16 +30,13 @@ jobs:
         run: |
           find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name transparent -exec rm -rf {} +
 
-      # 4️⃣ Generate streak card inside transparent folder
-      - name: Generate streak card
-        uses: anuraghazra/github-readme-streak-stats@v1
-        with:
-          user: muhammadhammad2005
-          theme: transparent
-          hide_border: true
-          output: profile-summary-card-output/transparent/streak.svg
+      # 4️⃣ Download streak card image
+      - name: Download streak card
+        run: |
+          curl -o profile-summary-card-output/transparent/streak.svg \
+          "https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true&background=00000000"
 
-      # 5️⃣ Commit and push changes
+      # 5️⃣ Commit changes
       - name: Commit changes
         run: |
           git config user.name "github-actions"
