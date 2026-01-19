@@ -91,3 +91,10 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
+
+<div align="center">
+  <img
+    width="820"
+    src="https://github-readme-streak-stats.vercel.app/api?user=muhammadhammad2005&theme=transparent&hide_border=true&background=FFFFFF00"
+  />
+</div>
