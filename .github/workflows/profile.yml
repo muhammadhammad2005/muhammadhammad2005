@@ -14,10 +14,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v4
 
-      # 2️⃣ Generate profile summary cards
+      # 1️⃣ Generate profile summary cards
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
@@ -25,22 +24,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # 3️⃣ Keep only transparent folder
-      - name: Clean non-transparent cards
+      # 2️⃣ Keep only transparent folder
+      - name: Keep only transparent cards
         run: |
-          find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name transparent -exec rm -rf {} +
+          for dir in profile-summary-card-output/*; do
+            if [ "$(basename "$dir")" != "transparent" ]; then
+              rm -rf "$dir"
+            fi
+          done
 
-      # 4️⃣ Download streak card image
-      - name: Download streak card
-        run: |
-          curl -o profile-summary-card-output/transparent/streak.svg \
-          "https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true&background=00000000"
-
-      # 5️⃣ Commit changes
+      # 3️⃣ Commit updated cards
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add profile-summary-card-output/transparent
-          git commit -m "Update transparent profile summary cards and streak" || echo "No changes to commit"
+          git commit -m "Update transparent profile summary cards" || echo "No changes to commit"
           git push
