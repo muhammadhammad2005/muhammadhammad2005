@@ -1,20 +1,20 @@
-name: GitHub Profile Summary Cards
+name: Workflow
 
 on:
-  push:
-    branches:
-      - main
-  workflow_dispatch:
+  workflow_dispatch: # manual trigger anytime
+  schedule:
+    # Run every hour
+    - cron: "0 * * * *"
 
 jobs:
-  build:
+  update-cards:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-      # Generate cards
-      - name: Generate profile summary cards
+      - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
           USERNAME: muhammadhammad2005
@@ -22,22 +22,10 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
-      # Delete all non-transparent themes
-      - name: Keep only transparent folder
-        run: |
-          cd profile-summary-card-output
-          for d in */ ; do
-            if [ "$d" != "transparent/" ]; then
-              rm -rf "$d"
-            fi
-          done
-          cd ..
-
-      # Commit only transparent
-      - name: Commit changes
+      - name: Commit Cards
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add profile-summary-card-output/transparent
-          git commit -m "Update transparent profile summary cards" || echo "No changes to commit"
+          git commit -m "Auto-update transparent profile summary cards" || echo "No changes to commit"
           git push
