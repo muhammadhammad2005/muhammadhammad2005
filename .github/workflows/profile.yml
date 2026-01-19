@@ -1,9 +1,10 @@
 name: Workflow
 
 on:
-  schedule:
-    - cron: "0 0 * * *" 
   push:
+    branches:
+      - main
+  pull_request:
     branches:
       - main
   workflow_dispatch:
@@ -13,8 +14,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v4
 
+      # 2️⃣ Generate profile summary cards
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
@@ -22,10 +25,25 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
+      # 3️⃣ Keep only transparent folder
+      - name: Clean non-transparent cards
+        run: |
+          find profile-summary-card-output -mindepth 1 -maxdepth 1 ! -name transparent -exec rm -rf {} +
+
+      # 4️⃣ Generate streak card inside transparent folder
+      - name: Generate streak card
+        uses: anuraghazra/github-readme-streak-stats@v1
+        with:
+          user: muhammadhammad2005
+          theme: transparent
+          hide_border: true
+          output: profile-summary-card-output/transparent/streak.svg
+
+      # 5️⃣ Commit and push changes
       - name: Commit changes
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add profile-summary-card-output
-          git commit -m "Update profile summary cards" || echo "No changes to commit"
+          git add profile-summary-card-output/transparent
+          git commit -m "Update transparent profile summary cards and streak" || echo "No changes to commit"
           git push
