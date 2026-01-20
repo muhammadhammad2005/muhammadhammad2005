@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Muhammad Hammad 👋</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="2" />
 <h3 align="center">
 DevOps & Cloud Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD Specialist
 </h3>
@@ -6,6 +6,8 @@ DevOps & Cloud Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD 
 <div align="center">
   <img src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/assets/banner.gif" alt="DevOps Banner" />
 </div>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="2" />
 
 <p align="center">
 <span style="display:inline-block; max-width: 700px; text-align: center;">
@@ -21,8 +23,6 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
 
 ### 🚀 What I Work On
 
@@ -40,9 +40,9 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 - Managing infrastructure as code using Terraform  
 - Handling configuration management using Ansible  
 - Writing automation scripts using Bash, Python, and YAML  
-- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
+- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="2" />
 
 ### 🧰 Languages & Tools
 
@@ -65,7 +65,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="45" height="45" alt="Nginx"/>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="2" />
 
 ### 🤝 Collaboration & Learning
 
@@ -78,7 +78,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 
 > *From Linux terminals to AWS cloud infrastructure — building, automating, and learning every day.*
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="1" />
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0124.gif" alt="animated line" width="100%" height="2" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
