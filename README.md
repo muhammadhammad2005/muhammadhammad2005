@@ -31,7 +31,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   alt="Coder Illustration"
   width="250"
   align="right"
-  style="margin-left:60px; margin-top:-120px;"
+  style="margin-left:120px; margin-top:120px;"
 />
 
 - Managing and troubleshooting Linux-based systems  
