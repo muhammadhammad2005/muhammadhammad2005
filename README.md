@@ -31,7 +31,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   alt="Coder Illustration"
   width="200"
   align="right"
-  style="margin-left:60px; margin-top:60px;"
+  style="margin-left:60px;"
 />
 
 - Managing and troubleshooting Linux-based systems  
@@ -51,7 +51,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=20" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=18&size=100" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
