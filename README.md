@@ -29,7 +29,7 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 <img 
   src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/assets/image.gif"
   alt="Coder Illustration"
-  width="280"
+  width="250"
   align="right"
   style="margin-left:60px; margin-top:-120px;"
 />
