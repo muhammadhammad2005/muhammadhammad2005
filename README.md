@@ -29,9 +29,9 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 <img 
   src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/assets/image.gif"
   alt="Coder Illustration"
-  width="250"
+  width="280"
   align="right"
-  style="margin-left:20px; margin-top:20px;"
+  style="margin-left:60px; margin-top:70px;"
 />
 
 - Managing and troubleshooting Linux-based systems  
@@ -45,7 +45,6 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 - Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
 
 <br clear="right"/>
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
