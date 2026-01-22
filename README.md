@@ -10,12 +10,6 @@ DevOps & Cloud Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 <p align="center">
-<span style="display:inline-block; max-width: 700px; text-align: center;">
-I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Linux</b> and <b>AWS</b>, working hands-on with <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure automation</b>, while sharpening my <b>DevOps</b> and <b>cloud</b> skills through <b>real-world projects</b>.
-</span>
-</p>
-
-<p align="center">
   <a href="https://github.com/muhammadhammad2005">
     <img src="https://img.shields.io/github/followers/muhammadhammad2005?label=Follow&style=social" />
   </a>
@@ -24,15 +18,20 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   </a>
 </p>
 
-### 🚀 What I Work On
+<p align="center">
+<span style="display:inline-block; max-width: 700px; text-align: center;">
+I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Linux</b> and <b>AWS</b>, working hands-on with <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure automation</b>, while sharpening my <b>DevOps</b> and <b>cloud</b> skills through <b>real-world projects</b>.
+</span>
+</p>
 
-<img 
-  src="https://github.com/muhammadhammad2005/muhammadhammad2005/blob/main/assets/image.gif"
-  alt="Coder Illustration"
-  width="200"
-  align="right"
-  style="margin-left:60px;"
-/>
+<p align="center">
+  <img src="assets/image1.gif" width="150" />
+  <img src="assets/image2.gif" width="150" />
+  <img src="assets/image3.gif" width="150" />
+  <img src="assets/image4.gif" width="150" />
+</p>
+
+### 🚀 What I Work On
 
 - Managing and troubleshooting Linux-based systems  
 - Designing and deploying AWS cloud infrastructure  
@@ -43,8 +42,6 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 - Handling configuration management using Ansible  
 - Writing automation scripts using Bash, Python, and YAML  
 - Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
-
-<br clear="right"/>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
