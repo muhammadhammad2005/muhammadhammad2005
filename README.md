@@ -25,10 +25,12 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 </p>
 
 <p align="center">
-  <img src="assets/image1.gif" width="150" />
-  <img src="assets/image2.gif" width="150" />
-  <img src="assets/image3.gif" width="150" />
-  <img src="assets/image4.gif" width="150" />
+  <img src="assets/image1.gif" width="120" />
+  <img src="assets/image2.gif" width="120" />
+  <img src="assets/image3.gif" width="120" />
+  <img src="assets/image4.gif" width="120" />
+  <img src="assets/image5.gif" width="120" />
+  <img src="assets/image6.gif" width="120" />
 </p>
 
 ### 🚀 What I Work On
