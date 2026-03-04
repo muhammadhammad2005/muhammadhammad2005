@@ -1,4 +1,3 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 <h3 align="center">
 DevOps Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD
 </h3>
@@ -6,8 +5,6 @@ DevOps Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD
 <div align="center">
   <img src="assets/Cover.gif" alt="DevOps Banner" />
 </div>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 <p align="center">
   <a href="https://github.com/muhammadhammad2005">
@@ -45,15 +42,11 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
 - Writing automation scripts using Bash, Python, and YAML  
 - Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
 ### 🧰 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=18&size=100" />
 </p>
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 🤝 Collaboration & Learning
 
