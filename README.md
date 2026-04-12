@@ -1,5 +1,5 @@
 <h3 align="center">
-DevOps Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD
+DevOps Engineer | I Build & Deploy SaaS Infrastructure — AWS · Kubernetes · Docker · Terraform · CI/CD
 </h3>
 
 <div align="center">
@@ -13,11 +13,16 @@ DevOps Engineer | AWS • Docker • Kubernetes • Terraform • CI/CD
   <a href="https://www.linkedin.com/in/mhammadtech/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-blue?logo=linkedin&style=flat-square" />
   </a>
+  <a href="mailto:mohammadhammad.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mohammadhammad.tech@gmail.com-red?logo=gmail&style=flat-square" />
+  </a>
 </p>
 
 <p align="center">
 <span style="display:inline-block; max-width: 700px; text-align: center;">
-I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Linux</b> and <b>AWS</b>, working hands-on with <b>containerization</b>, <b>orchestration</b>, and <b>infrastructure automation</b>, while sharpening my <b>DevOps</b> and <b>cloud</b> skills through <b>real-world projects</b>.
+DevOps Engineer building and operating <b>production AWS infrastructure</b> for SaaS teams.
+I ship <b>CI/CD pipelines</b>, <b>Kubernetes deployments</b>, and <b>Infrastructure as Code</b> that cut deployment
+time from days to hours — and keep systems running when things get hard.
 </span>
 </p>
 
@@ -30,17 +35,19 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   <img src="assets/image6.gif" width="120" />
 </p>
 
-### 🚀 What I Work On
+---
 
-- Managing and troubleshooting Linux-based systems  
-- Designing and deploying AWS cloud infrastructure  
-- Working with AWS services including EKS, ECR, ECS, VPC, S3, EC2, and RDS  
-- Containerizing applications using Docker containers  
-- Orchestrating containerized workloads using Kubernetes  
-- Managing infrastructure as code using Terraform  
-- Handling configuration management using Ansible  
-- Writing automation scripts using Bash, Python, and YAML  
-- Building and maintaining CI/CD pipelines using GitHub Actions and Jenkins  
+### 🚀 What I Actually Deliver
+
+- **CI/CD pipelines** using GitHub Actions and Jenkins — same-day automated releases, 70% less manual deployment work
+- **AWS infrastructure** provisioned with Terraform (IaC) — EC2, EKS, ECS, ECR, S3, VPC, IAM — zero configuration drift
+- **Kubernetes deployments** on EKS with rolling updates, health checks, and automatic rollback
+- **Docker containerization** — identical environments from dev to staging to production
+- **Monitoring & observability** — centralized logging, incident detection before users notice
+- **Infrastructure security** — IAM least-privilege, VPC segmentation, secrets management
+- **Linux server administration** — configuration management, hardening, automation scripts in Bash and Python
+
+---
 
 ### 🧰 Languages & Tools
 
@@ -48,27 +55,44 @@ I design, build, and automate <b>cloud infrastructure</b> with a focus on <b>Lin
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=18&size=100" />
 </p>
 
-### 🤝 Collaboration & Learning
+---
 
-- Open to **DevOps and Cloud projects**
-- Interested in **hands-on cloud infrastructure and automation work**
-- Actively **learning new tools and technologies day by day**
+### 🏆 Highlights
 
-📫 **Contact:** mohammadhammad.tech@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/mhammadtech/
+- **Best Final Year Project 2025 — EduQual UK** · Built a brain-inspired AI system using SpiNNaker neuromorphic hardware, TensorFlow, and Kubernetes
+- **20 KCNA Labs completed** · Kubernetes and Cloud Native Associate hands-on lab track
+- **Production-grade DevOps** at Al Nafi Cloud — CI/CD, Kubernetes, Terraform, AWS at scale
 
-> *From Linux terminals to AWS cloud infrastructure — building, automating, and learning every day.*
+---
+
+### 📌 Featured Projects
+
+- 🔧 **Flask App on EKS** — Dockerized Python app deployed on AWS EKS with GitHub Actions CI/CD — zero-downtime deploys on every push
+- 📊 **Linux Monitoring Tool** — Bash-based disk usage agent persisted to MySQL, deployable via Docker or Kubernetes
+- ☁️ **AWS Infrastructure with Terraform** — Repeatable multi-environment IaC setup across dev, staging, and production
+
+---
+
+### 🤝 Open To
+
+- Remote **DevOps Engineer** roles at SaaS companies
+- Freelance **cloud infrastructure** and **CI/CD** projects
+- Collaborations with developers who need someone to **deploy and scale** what they build
+
+📫 **mohammadhammad.tech@gmail.com**
+🔗 **[linkedin.com/in/mhammadtech](https://www.linkedin.com/in/mhammadtech/)**
+🌍 **Karachi, Pakistan · Available Remote · UTC+5**
+
+> *Code gets written. Infrastructure gets it shipped. I do the second part.*
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
   <br><br>
-
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
   <br><br>
-
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
