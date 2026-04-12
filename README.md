@@ -22,7 +22,7 @@ DevOps Engineer | I Build & Deploy SaaS Infrastructure — AWS · Kubernetes · 
 <span style="display:inline-block; max-width: 700px; text-align: center;">
 DevOps Engineer building and operating <b>production AWS infrastructure</b> for SaaS teams.
 I ship <b>CI/CD pipelines</b>, <b>Kubernetes deployments</b>, and <b>Infrastructure as Code</b> that cut deployment
-time from days to hours — and keep systems running when things get hard.
+time from days to hours, and keep systems running when things get hard.
 </span>
 </p>
 
