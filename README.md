@@ -69,7 +69,6 @@ time from days to hours, and keep systems running when things get hard.
 
 - 🔧 **Flask App on EKS** — Dockerized Python app deployed on AWS EKS with GitHub Actions CI/CD — zero-downtime deploys on every push
 - 📊 **Linux Monitoring Tool** — Bash-based disk usage agent persisted to MySQL, deployable via Docker or Kubernetes
-- ☁️ **AWS Infrastructure with Terraform** — Repeatable multi-environment IaC setup across dev, staging, and production
 
 ---
 
