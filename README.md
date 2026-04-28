@@ -35,7 +35,7 @@ time from days to hours, and keep systems running when things get hard.
   <img src="assets/image6.gif" width="120" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 🚀 What I Actually Deliver
 
@@ -47,7 +47,7 @@ time from days to hours, and keep systems running when things get hard.
 - **Infrastructure security** — IAM least-privilege, VPC segmentation, secrets management
 - **Linux server administration** — configuration management, hardening, automation scripts in Bash and Python
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 🧰 Languages & Tools
 
@@ -55,7 +55,7 @@ time from days to hours, and keep systems running when things get hard.
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=18&size=100" />
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 🏆 Highlights
 
@@ -63,14 +63,14 @@ time from days to hours, and keep systems running when things get hard.
 - **20 KCNA Labs completed** · Kubernetes and Cloud Native Associate hands-on lab track
 - **Production-grade DevOps** at Al Nafi Cloud — CI/CD, Kubernetes, Terraform, AWS at scale
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 📌 Featured Projects
 
 - 🔧 **Flask App on EKS** — Dockerized Python app deployed on AWS EKS with GitHub Actions CI/CD — zero-downtime deploys on every push
 - 📊 **Linux Monitoring Tool** — Bash-based disk usage agent persisted to MySQL, deployable via Docker or Kubernetes
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
 ### 🤝 Open To
 
