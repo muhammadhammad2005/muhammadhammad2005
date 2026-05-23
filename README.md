@@ -2,10 +2,6 @@
 DevOps Engineer | I Build & Deploy SaaS Infrastructure — AWS · Kubernetes · Docker · Terraform · CI/CD
 </h3>
 
-<div align="center">
-  <img src="assets/Cover.gif" alt="DevOps Banner" />
-</div>
-
 <p align="center">
   <a href="https://github.com/muhammadhammad2005">
     <img src="https://img.shields.io/github/followers/muhammadhammad2005?label=Follow&style=social" />
