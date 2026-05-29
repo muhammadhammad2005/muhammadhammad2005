@@ -90,7 +90,15 @@ I also built and shipped my own production-ready full-stack app:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,flutter,nextjs,firebase,supabase,mysql&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=plastic&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
