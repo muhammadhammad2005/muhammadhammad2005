@@ -1,25 +1,29 @@
+<h1 align="center">Muhammad Hammad</h1>
+
 <h3 align="center">
-DevOps Engineer | I Build & Deploy SaaS Infrastructure — AWS · Kubernetes · Docker · Terraform · CI/CD
+Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure 🚀
 </h3>
 
 <p align="center">
   <a href="https://github.com/muhammadhammad2005">
-    <img src="https://img.shields.io/github/followers/muhammadhammad2005?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/muhammadhammad2005?label=Follow&style=plastic&logo=github&color=171515" />
   </a>
-  <a href="https://www.linkedin.com/in/mhammadtech/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-blue?logo=linkedin&style=flat-square" />
-  </a>
-  <a href="mailto:mohammadhammad.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammadhammad.tech@gmail.com-red?logo=gmail&style=flat-square" />
-  </a>
-</p>
 
-<p align="center">
-<span style="display:inline-block; max-width: 700px; text-align: center;">
-DevOps Engineer building and operating <b>production AWS infrastructure</b> for SaaS teams.
-I ship <b>CI/CD pipelines</b>, <b>Kubernetes deployments</b>, and <b>Infrastructure as Code</b> that cut deployment
-time from days to hours, and keep systems running when things get hard.
-</span>
+  <a href="https://www.linkedin.com/in/mhammadtech/">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mohammadhammad.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=plastic&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://play.google.com/store/apps/details?id=app.vaultly.mobile">
+    <img src="https://img.shields.io/badge/My%20App-Vaultly-34A853?style=plastic&logo=googleplay&logoColor=white" />
+  </a>
+
+  <a href="https://rankistan.dev">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmuhammadhammad2005&style=plastic" />
+  </a>
 </p>
 
 <p align="center">
@@ -33,54 +37,152 @@ time from days to hours, and keep systems running when things get hard.
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-### 🚀 What I Actually Deliver
+## 🚀 About Me
 
-- **CI/CD pipelines** using GitHub Actions and Jenkins — same-day automated releases, 70% less manual deployment work
-- **AWS infrastructure** provisioned with Terraform (IaC) — EC2, EKS, ECS, ECR, S3, VPC, IAM — zero configuration drift
-- **Kubernetes deployments** on EKS with rolling updates, health checks, and automatic rollback
-- **Docker containerization** — identical environments from dev to staging to production
-- **Monitoring & observability** — centralized logging, incident detection before users notice
-- **Infrastructure security** — IAM least-privilege, VPC segmentation, secrets management
-- **Linux server administration** — configuration management, hardening, automation scripts in Bash and Python
+I build, deploy, automate, and scale production-ready SaaS infrastructure for startups.
+
+Instead of hiring separate developers, DevOps engineers, and cloud architects, founders work with one engineer who handles the entire deployment lifecycle - from application setup to scalable cloud infrastructure.
+
+I focus on:
+
+- ⚡ CI/CD Automation
+- ☁️ AWS Cloud Infrastructure
+- 🐳 Docker & Kubernetes
+- 🔐 DevSecOps & Monitoring
+- 🏗 Infrastructure as Code
+- 📈 Production Scaling
+
+I’ve completed **100+ hands-on DevOps labs** and delivered **50+ freelance projects** focused on cloud infrastructure, automation, deployments, and scalable SaaS systems.
+
+I also built and shipped my own production-ready full-stack app:
+
+📱 **Vaultly** - Live on Google Play Store  
+🔗 https://play.google.com/store/apps/details?id=app.vaultly.mobile
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-### 🧰 Languages & Tools
+## 🔥 What I Deliver
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux,bash,py,flask,git,github,githubactions,jenkins,terraform,ansible,tensorflow,pytorch,mysql,nginx,vim&perline=18&size=100" />
+### ⚙️ DevOps & Cloud Infrastructure
+- Production-ready AWS infrastructure
+- Kubernetes deployments on EKS
+- Docker containerization
+- Terraform Infrastructure as Code
+- CI/CD pipelines with GitHub Actions & Jenkins
+- NGINX reverse proxy & load balancing
+- Linux server hardening & automation
+
+### 📊 Monitoring & DevSecOps
+- Prometheus & Grafana monitoring
+- Centralized logging
+- Infrastructure security best practices
+- IAM & secrets management
+- Automated deployment workflows
+
+### 🚀 SaaS Deployment Systems
+- Zero-downtime deployments
+- Automated scaling workflows
+- Production-ready environments
+- Fast & reliable release pipelines
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,flutter,nextjs,firebase,supabase,mysql&perline=10" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-### 🏆 Highlights
+## 📌 Featured Projects
 
-- **Best Final Year Project 2025 — EduQual UK** · Built a brain-inspired AI system using SpiNNaker neuromorphic hardware, TensorFlow, and Kubernetes
-- **20 KCNA Labs completed** · Kubernetes and Cloud Native Associate hands-on lab track
-- **Production-grade DevOps** at Al Nafi Cloud — CI/CD, Kubernetes, Terraform, AWS at scale
+### 🚀 Vaultly - Expense Tracker App
+Production-ready full-stack mobile application published on the Google Play Store.
+
+#### Built With:
+- Flutter
+- Firebase
+- Supabase
+- CI/CD Workflows
+- Cloud Backend Infrastructure
+
+🔗 https://play.google.com/store/apps/details?id=app.vaultly.mobile
+
+Install on your Android mobile if you want..
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+### ☸️ Kubernetes CI/CD Infrastructure
+Built automated deployment pipelines using:
+- GitHub Actions
+- Docker
+- Kubernetes
+- AWS EKS
+- Terraform
+
+Features:
+- Automated deployments
+- Rolling updates
+- Zero downtime delivery
+- Production scaling
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-### 📌 Featured Projects
+### 📊 Monitoring & Infrastructure Automation
+Implemented:
+- Prometheus monitoring
+- Grafana dashboards
+- Linux automation scripts
+- Containerized infrastructure systems
 
-- 🔧 **Flask App on EKS** — Dockerized Python app deployed on AWS EKS with GitHub Actions CI/CD — zero-downtime deploys on every push
-- 📊 **Linux Monitoring Tool** — Bash-based disk usage agent persisted to MySQL, deployable via Docker or Kubernetes
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 🏆 Highlights
+
+- 🏅 Best Final Year Project 2025 - EduQual UK
+- ☸️ 100+ Hands-On DevOps & Kubernetes Labs
+- 🚀 50+ Successfully Delivered Freelance Projects
+- 📱 Built & Shipped Production SaaS Applications
+- ☁️ Specialized in AWS, Kubernetes & CI/CD Infrastructure
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-### 🤝 Open To
+## 🤝 Open To
 
-- Remote **DevOps Engineer** roles at SaaS companies
-- Freelance **cloud infrastructure** and **CI/CD** projects
-- Collaborations with developers who need someone to **deploy and scale** what they build
-
-📫 **mohammadhammad.tech@gmail.com**
-🔗 **[linkedin.com/in/mhammadtech](https://www.linkedin.com/in/mhammadtech/)**
-🌍 **Karachi, Pakistan · Available Remote · UTC+5**
-
-> *Code gets written. Infrastructure gets it shipped. I do the second part.*
+- DevOps Engineer Roles
+- Cloud Infrastructure Projects
+- SaaS Deployment Systems
+- Kubernetes & AWS Consulting
+- Freelance DevOps Projects
+- Startup Infrastructure Partnerships
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 📫 Contact
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=gmail" width="20" align="center" />
+  <a href="mailto:mohammadhammad.tech@gmail.com">mohammadhammad.tech@gmail.com</a>
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" align="center" />
+  <a href="https://www.linkedin.com/in/mhammadtech/">linkedin.com/in/mhammadtech</a>
+</p>
+
+<p align="left">
+🌍 Karachi, Pakistan <br/>
+🕒 Available Remote Worldwide
+</p>
+
+> *Great products need more than code - they need infrastructure built to survive production.*
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="49%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
