@@ -1,4 +1,4 @@
-<h1 align="center">Muhammad Hammad</h1>
+<h1 align="center">👋 Muhammad Hammad</h1>
 
 <h3 align="center">
 Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure 🚀
@@ -27,12 +27,12 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure 🚀
 </p>
 
 <p align="center">
-  <img src="assets/image1.gif" width="120" />
-  <img src="assets/image2.gif" width="120" />
-  <img src="assets/image3.gif" width="120" />
-  <img src="assets/image4.gif" width="120" />
-  <img src="assets/image5.gif" width="120" />
-  <img src="assets/image6.gif" width="120" />
+  <img src="assets/image1.gif" width="100" />
+  <img src="assets/image2.gif" width="100" />
+  <img src="assets/image3.gif" width="100" />
+  <img src="assets/image4.gif" width="100" />
+  <img src="assets/image5.gif" width="100" />
+  <img src="assets/image6.gif" width="100" />
 </p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
