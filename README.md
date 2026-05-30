@@ -37,6 +37,20 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure 🚀
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
+## 📌 Projects
+
+<a href="https://play.google.com/store/apps/details?id=app.vaultly.mobile"><img src="assets/vaultly.svg" align="absmiddle" alt="Vaultly: Expense Tracker" /></a> - Full-stack mobile expense tracker published live on Google Play Store with biometric security.
+
+<a href="https://github.com/muhammadhammad2005/k8s-cicd-security-scanning"><img src="assets/kubernetes-devsecops-pipeline.svg" align="absmiddle" alt="Kubernetes &amp; DevSecOps Pipeline" /></a> - Automated cloud deployment workflow featuring integrated multi-layered security gates.
+
+<a href="https://github.com/muhammadhammad2005/rock-paper-scissors-k8s"><img src="assets/kubernetes-deployment.svg" align="absmiddle" alt="Kubernetes Deployment" /></a> - Containerized Flask game showcasing automated CI/CD and rolling updates on production AWS EKS.
+
+<a href="https://matchlypro.vercel.app/"><img src="assets/matchlypro.svg" align="absmiddle" alt="MatchlyPro" /></a> - Production-oriented resume matcher web app with Gemini AI integrations, client-side PDF parsing, and Docker runtime.
+
+<a href="https://ai-startup-forge.vercel.app/"><img src="assets/aistartupforge.svg" align="absmiddle" alt="AIStartupForge" /></a> - SaaS ideation engine transforming raw business briefs into structured MVP components using automated AI pipelines.
+
+<a href="https://github.com/muhammadhammad2005/serpbyte"><img src="assets/serpbyte.svg" align="absmiddle" alt="serpbyte" /></a> - Lightweight arcade game built with vanilla JavaScript, fully containerized and performance-optimized.
+
 ## 🚀 About Me
 
 I design, automate, and scale production-ready SaaS infrastructure and modern web applications for fast-growing startups. 
@@ -86,36 +100,10 @@ Instead of hiring separate front-end developers, DevOps engineers, and cloud arc
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-## 📌 Featured Projects & Business Impact
-
-### 📱 Vaultly - Expense Tracker App
-*Production-ready full-stack mobile application published and live on the Google Play Store.*
-
-* **The Problem It Solves:** Most personal finance tools are overly complicated, packed with intrusive ads, or fail to protect sensitive financial data. Vaultly was built to provide an ad-free, high-privacy environment where users can manage monthly budgets, track recurring subscriptions, and protect their financial records using local biometric authentication.
-* **The Business Impact:** Designed and implemented an automated release pipeline that allows for instant hotfixes and seamless background data synchronization, eliminating update downtime for active users.
-* **Built With:** Flutter, Firebase, Supabase, CI/CD Workflows, Cloud Backend Infrastructure.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
-### ☸️ Kubernetes CI/CD Infrastructure & DevSecOps Pipeline
-*End-to-end automated deployment workflows focusing on high availability and multi-layered security.*
-* **The Business Impact:** Integrated automated security gates (`Trivy`, `Kubesec`) directly into the CI/CD workflow, catching vulnerabilities *before* deployment and reducing infrastructure risk by preventing misconfigured Kubernetes manifests from reaching production.
-* **Built With:** GitHub Actions, Docker, Kubernetes (AWS EKS), Terraform, KubeLinter.
-* **Key Results:** Achieved zero-downtime rolling updates and fully automated infrastructure provisioning via Code.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
-### 📊 Monitoring & Infrastructure Automation
-*Centralized system visibility and proactive alerting systems designed to prevent production crashes.*
-* **The Business Impact:** Reduced Mean Time to Resolution (MTTR) by implementing automated alerting loops. Instead of waiting for users to report errors, infrastructure anomalies trigger immediate system logs, allowing engineering teams to fix bugs proactively.
-* **Built With:** Prometheus, Grafana, Linux Shell Automation, Containerized Metrics Engines.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
 ## 🏆 Engineering Highlights
 
 * 🏅 **Best Final Year Project 2025 (EduQual UK)** - Awarded for designing and implementing *Neuromorphic Computing Integration with SpiNNaker, Kubernetes, and TensorFlow for Brain-Inspired AI Systems*.
-* ☸️ **100+ Hands-On DevOps Labs** - Deep, practical validation across AWS, Kubernetes, and Linux automation.
+* ☸️ **100+ Hands-On Labs** - Deep, practical validation across AWS, Kubernetes, and Linux automation.
 * 🚀 **50+ Delivered Freelance Projects** - Proven track record of helping startups deploy and maintain live systems.
 * 📱 **Shipped to Production** - Creator of *Vaultly*, a live full-stack app handling real users and live backend workflows.
 
@@ -148,7 +136,7 @@ Are you a SaaS founder looking to secure your deployments, automate your workflo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="60%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
