@@ -148,7 +148,7 @@ Are you a SaaS founder looking to secure your deployments, automate your workflo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="70%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
