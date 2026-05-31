@@ -110,7 +110,7 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
 
 ## 🏆 Engineering Highlights
 
-- 🥇 **Best FYP 2025 — EduQual UK** · Neuromorphic Computing with SpiNNaker, Kubernetes & TensorFlow
+- 🥇 **Best FYP 2025 - EduQual UK** · Neuromorphic Computing with SpiNNaker, Kubernetes & TensorFlow
 - ☸️ **100+ Hands-On Labs** · AWS · Kubernetes · Linux - validated in real environments
 - 🚀 **50+ Freelance Projects** · Startups deployed, scaled & maintained in production
 - 📱 **Shipped to Production** · *Vaultly: Expense Tracker* - live full-stack app, real users, real backend
@@ -126,7 +126,7 @@ Got cloud chaos? Scaling pain? Deployment bottlenecks?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mhammadtech-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhammadtech)
 [![Location](https://img.shields.io/badge/📍_Karachi,_Pakistan-Remote_Worldwide-00C896?style=plastic)](#)
 
-> *"Great products need more than code — they need infrastructure built to survive production."*
+> *"Great products need more than code - they need infrastructure built to survive production."*
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
