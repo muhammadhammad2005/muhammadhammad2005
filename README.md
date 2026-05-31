@@ -43,21 +43,47 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure 🚀
 
 <a href="https://github.com/muhammadhammad2005/k8s-cicd-security-scanning"><img src="assets/kubernetes-devsecops-pipeline.svg" align="absmiddle" alt="Kubernetes &amp; DevSecOps Pipeline" /></a> - Automated cloud deployment workflow featuring integrated multi-layered security gates.
 
-<a href="https://github.com/muhammadhammad2005/rock-paper-scissors-k8s"><img src="assets/kubernetes-deployment.svg" align="absmiddle" alt="Kubernetes Deployment" /></a> - Containerized Flask game showcasing automated CI/CD and rolling updates on production AWS EKS.
+<a href="https://github.com/muhammadhammad2005/rock-paper-scissors-k8s"><img src="assets/kubernetes-deployment.svg" align="absmiddle" alt="Kubernetes Deployment" /></a> - Containerized Flask game showcasing automated CI/CD and rolling updates on AWS EKS.
 
-<a href="https://matchlypro.vercel.app/"><img src="assets/matchlypro.svg" align="absmiddle" alt="MatchlyPro" /></a> - Production-oriented resume matcher web app with Gemini AI integrations, client-side PDF parsing, and Docker runtime.
+<a href="https://matchlypro.vercel.app/"><img src="assets/matchlypro.svg" align="absmiddle" alt="MatchlyPro" /></a> - Production-ready resume matcher web app integrated with Gemini AI and client-side PDF parsing.
 
-<a href="https://ai-startup-forge.vercel.app/"><img src="assets/aistartupforge.svg" align="absmiddle" alt="AIStartupForge" /></a> - SaaS ideation engine transforming raw business briefs into structured MVP components using automated AI pipelines.
+<a href="https://ai-startup-forge.vercel.app/"><img src="assets/aistartupforge.svg" align="absmiddle" alt="AIStartupForge" /></a> - SaaS ideation engine transforming raw business briefs into structured MVPs using AI automation.
 
 <a href="https://github.com/muhammadhammad2005/serpbyte"><img src="assets/serpbyte.svg" align="absmiddle" alt="serpbyte" /></a> - Lightweight arcade game built with vanilla JavaScript, fully containerized and performance-optimized.
 
-## 🚀 About Me
+## 📌 Labs
 
-I design, automate, and scale production-ready SaaS infrastructure and modern web applications for fast-growing startups. 
+<a href="https://github.com/muhammadhammad2005/KCSA"><img src="assets/kcsa.svg" align="absmiddle" alt="KCSA" /></a> - Cloud native security practices, container hardening, and Kubernetes admission control sandboxes.
 
-Instead of hiring separate front-end developers, DevOps engineers, and cloud architects, founders work with **one specialized engineer** who owns the entire product lifecycle - from "vibe-coded" rapid UI prototyping to secure, auto-scaling cloud deployments.
+<a href="https://github.com/muhammadhammad2005/KCNA"><img src="assets/kcna.svg" align="absmiddle" alt="KCNA" /></a> - Core cloud native infrastructure labs focusing on container orchestration fundamentals.
 
-* **What I Focus On:** Rapid MVP Development, High Availability, Zero-Downtime Deployments, and Cost-Optimized Cloud Architecture.
+<a href="https://github.com/muhammadhammad2005/CKA"><img src="assets/cka.svg" align="absmiddle" alt="CKA" /></a> - Production-level Kubernetes cluster administration, networking, and troubleshooting setups.
+
+<a href="https://github.com/muhammadhammad2005/CKAD"><img src="assets/ckad.svg" align="absmiddle" alt="CKAD" /></a> - Cloud native application design, deployment configurations, and resource optimization labs.
+
+<a href="https://github.com/muhammadhammad2005/CKS"><img src="assets/cks.svg" align="absmiddle" alt="CKS" /></a> - Advanced cluster security configurations, runtime threat detection, and system hardening benchmarks.
+
+<a href="https://github.com/muhammadhammad2005/Docker"><img src="assets/docker.svg" align="absmiddle" alt="Docker" /></a> - Multi-container microservices architectures, health checks, and optimized image build caching.
+
+<a href="https://github.com/muhammadhammad2005/Ansible"><img src="assets/ansible.svg" align="absmiddle" alt="Ansible" /></a> - Configuration management automation playbooks, secure vaults, and idempotent node provisioning.
+
+<a href="https://github.com/muhammadhammad2005/Linux"><img src="assets/linux.svg" align="absmiddle" alt=" Linux" /></a> - System administration baselines, environment automation, and advanced Bash shell scripting loops.
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=plastic&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
+</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
@@ -81,22 +107,6 @@ Instead of hiring separate front-end developers, DevOps engineers, and cloud arc
 ### 📈 Production Scaling
 * **Zero-Downtime Infrastructure:** Implementation of rolling updates and blue-green strategies.
 * **Smart Auto-Scaling:** Traffic-driven scaling policies that save money during off-peak hours.
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-111111?style=plastic&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
-</p>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
