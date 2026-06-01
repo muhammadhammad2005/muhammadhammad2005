@@ -11,7 +11,7 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-0A66C2?style=plastic&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:mhammad.builds@gmail.com">
+  <a href="mailto:mohammadhammad.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=plastic&logo=gmail&logoColor=white" />
   </a>
 
@@ -122,8 +122,8 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
 Got cloud chaos? Scaling pain? Deployment bottlenecks?
 **I turn messy infrastructure into systems that just work.**
 
-[![Email](https://img.shields.io/badge/Email-mhammad.builds@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:mhammad.builds@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mhammadtech-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhammadtech)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:mohammadhammad.tech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhammadtech)
 [![Location](https://img.shields.io/badge/📍_Karachi,_Pakistan-Remote_Worldwide-00C896?style=plastic)](#)
 
 > *"Great products need more than code - they need infrastructure built to survive production."*
