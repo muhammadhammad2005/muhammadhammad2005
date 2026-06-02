@@ -1,6 +1,8 @@
-<h2 align="center">
-Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
-</h2>
+<h1 align="center">Muhammad Hammad 👋</h1>
+
+<h3 align="center">
+🚀 Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
+</h3>
 
 <p align="center">
   <a href="https://github.com/muhammadhammad2005">
@@ -18,11 +20,18 @@ Helping SaaS Startups Scale with Bulletproof DevOps Infrastructure
   <a href="https://play.google.com/store/apps/details?id=app.vaultly.mobile">
     <img src="https://img.shields.io/badge/My%20App-Vaultly-34A853?style=plastic&logo=googleplay&logoColor=white" />
   </a>
+</p>
 
+<p align="center">
   <a href="https://rankistan.dev">
     <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fmuhammadhammad2005&style=plastic" />
   </a>
+
+  <a href="https://github.com/muhammadhammad2005">
+    <img src="https://komarev.com/ghpvc/?username=muhammadhammad2005&label=Profile%20Views&color=0e75b6&style=plastic" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="assets/image1.gif" width="100" />
@@ -129,10 +138,6 @@ Got cloud chaos? Scaling pain? Deployment bottlenecks?
 > *"Great products need more than code - they need infrastructure built to survive production."*
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadhammad2005&theme=transparent&hide_border=true" width="60%" />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
