@@ -1,14 +1,29 @@
 name: Workflow
 
 on:
-  workflow_dispatch: # manual trigger anytime
+  workflow_dispatch:
   schedule:
-    # Run every hour
-    - cron: "0 * * * *"
+    - cron: "0 */6 * * *"  # har 6 ghante (pehle har ghante tha)
 
 jobs:
+  # Pehle purane runs delete karo
+  cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - name: Delete Old Workflow Runs
+        uses: Mattraks/delete-workflow-runs@v2
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          repository: ${{ github.repository }}
+          retain_days: 0
+          keep_minimum_runs: 5  # sirf last 5 runs rakhega
+
+  # Phir cards update karo
   update-cards:
     runs-on: ubuntu-latest
+    needs: cleanup  # pehle cleanup ho, phir yeh chale
 
     steps:
       - name: Checkout Repo
