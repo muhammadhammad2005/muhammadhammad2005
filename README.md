@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Muhammad Hammad 👋</h1>
-<h3 align="center">AI-Powered DevSecOps Engineer for SaaS Startups</h3>
+<h3 align="center">DevSecOps Engineer for SaaS Startups</h3>
 
 <p align="center">
 I take AI-built, vibe-coded, and fast-shipped apps and make them secure, scalable, and production-ready —<br/>
@@ -30,7 +30,7 @@ CI/CD, Kubernetes, and shift-left security, wired in from day one.
 ## 🧭 What I Do
 
 **☁️ DevOps & Cloud Infrastructure**
-AWS (EKS, ECS, ECR EC2, IAM, VPC) · Docker · Kubernetes · Terraform — built to scale from day one, not bolted on after launch.
+AWS (EKS, EC2, IAM, VPC) · Docker · Kubernetes · Terraform — built to scale from day one, not bolted on after launch.
 
 **🛡️ DevSecOps & Shift-Left Security**
 Trivy, Kubesec, KubeLinter, and OPA Gatekeeper wired directly into CI/CD — vulnerabilities get caught at build time, not in production.
@@ -50,10 +50,14 @@ Production app integrating Gemini AI, with a release-gated CI/CD pipeline: secur
 ### 🛡️ Kubernetes & DevSecOps Security Pipeline
 A CI/CD security gate that blocks insecure Kubernetes manifests before they reach production.
 
+<div align="center">
+
 | Metric | Before | After |
 |---|---|---|
 | Kubesec Score | -37 | +8 |
 | Trivy CVEs (Critical/High) | Multiple | 0 |
+
+</div>
 
 **Stack:** Kubernetes · Trivy · Kubesec · KubeLinter · OPA Gatekeeper · GitHub Actions
 🔗 [Repo](https://github.com/muhammadhammad2005/k8s-cicd-security-scanning)
@@ -66,7 +70,7 @@ A containerized Flask game used to demonstrate a full production deployment pipe
 ### 🚀 StartupForge AI
 AI-powered SaaS toolkit that turns a raw startup idea into a business plan, landing page copy, and pricing strategy — built on Gemini AI with full CI/CD to Vercel.
 **Stack:** Gemini AI · Firebase · Vite · GitHub Actions
-🔗 [Live App](https://ai-startup-forge.vercel.app/)
+🔗 [Live App](https://ai-startup-forge.vercel.app/) · [Repo](https://github.com/muhammadhammad2005/startupforge-ai)
 
 ### 📱 Vaultly — Expense Tracker
 Full-stack mobile app live on the Google Play Store, with biometric security and automated CI/CD.
@@ -82,6 +86,8 @@ A polished, dockerized browser Snake game — clean UI, smooth performance.
 
 ## 📚 Hands-On Labs & Certification Prep
 
+<div align="center">
+
 | Track | Focus |
 |---|---|
 | [KCSA](https://github.com/muhammadhammad2005/KCSA) | Kubernetes security fundamentals, admission control |
@@ -92,6 +98,8 @@ A polished, dockerized browser Snake game — clean UI, smooth performance.
 | [Docker](https://github.com/muhammadhammad2005/Docker) | Multi-container architectures, image build optimization |
 | [Ansible](https://github.com/muhammadhammad2005/Ansible) | Configuration management, secure vaults, provisioning |
 | [Linux](https://github.com/muhammadhammad2005/Linux) | System administration, Bash automation |
+
+</div>
 
 ---
 
