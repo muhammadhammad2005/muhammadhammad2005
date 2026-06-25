@@ -30,7 +30,7 @@ CI/CD, Kubernetes, and shift-left security, wired in from day one.
 ## 🧭 What I Do
 
 **☁️ DevOps & Cloud Infrastructure**
-AWS (EKS, EC2, IAM, VPC) · Docker · Kubernetes · Terraform — built to scale from day one, not bolted on after launch.
+AWS (EKS, ECS, ECR, EC2, IAM, VPC) · Docker · Kubernetes · Terraform — built to scale from day one, not bolted on after launch.
 
 **🛡️ DevSecOps & Shift-Left Security**
 Trivy, Kubesec, KubeLinter, and OPA Gatekeeper wired directly into CI/CD — vulnerabilities get caught at build time, not in production.
