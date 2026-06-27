@@ -140,7 +140,6 @@ A polished, dockerized browser Snake game — clean UI, smooth performance.
 ## 🏆 Highlights
 
 - 🥇 **Best Final Year Project 2025** (EduQual UK) — Neuromorphic Computing with SpiNNaker, Kubernetes & TensorFlow
-- 🚀 **50+ freelance projects** deployed, scaled, and maintained in production
 - ☸️ **100+ hands-on labs** across AWS, Kubernetes, and Linux
 - 📱 **Shipped to production** — *Vaultly*, live on Google Play with real users
 
