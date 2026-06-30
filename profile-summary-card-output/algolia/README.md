@@ -25,6 +25,16 @@
 
 ---
 
+![](./1-repos-per-language.svg)
+
+```
+![](https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/algolia/1-repos-per-language.svg)
+```
+
+    
+
+---
+
 ![](./2-most-commit-language.svg)
 
 ```
