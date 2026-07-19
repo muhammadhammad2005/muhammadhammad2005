@@ -32,7 +32,7 @@ jobs:
       - name: Generate Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          USERNAME: muhammadhammad2005
+          USERNAME: muhammadhammadtech
           THEME: transparent
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

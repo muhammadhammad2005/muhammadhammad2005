@@ -7,8 +7,8 @@ CI/CD, Kubernetes, and shift-left security, wired in from day one.
 </p>
 
 <p align="center">
-  <a href="https://github.com/muhammadhammad2005">
-    <img src="https://img.shields.io/github/followers/muhammadhammad2005?label=Follow&style=flat&logo=github&color=171515" />
+  <a href="https://github.com/muhammadhammadtech">
+    <img src="https://img.shields.io/github/followers/muhammadhammadtech?label=Follow&style=flat&logo=github&color=171515" />
   </a>
   <a href="https://www.linkedin.com/in/mhammadtech/">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Hammad-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -45,7 +45,7 @@ Most AI-built apps (Lovable, Bolt, Replit, vibe-coded MVPs) ship fast but fragil
 ### 🎯 MatchlyPro — AI Resume Matcher
 Production app integrating Gemini AI, with a release-gated CI/CD pipeline: security scanning (Snyk, gitleaks) → Docker smoke test → tagged production release.
 **Stack:** Gemini AI · React · Docker · GitHub Actions
-🔗 [Live App](https://matchlypro.vercel.app/) · [Repo](https://github.com/muhammadhammad2005/MatchlyPro)
+🔗 [Live App](https://matchlypro.vercel.app/) · [Repo](https://github.com/muhammadhammadtech/MatchlyPro)
 
 ### 🛡️ Kubernetes & DevSecOps Security Pipeline
 A CI/CD security gate that blocks insecure Kubernetes manifests before they reach production.
@@ -60,17 +60,17 @@ A CI/CD security gate that blocks insecure Kubernetes manifests before they reac
 </div>
 
 **Stack:** Kubernetes · Trivy · Kubesec · KubeLinter · OPA Gatekeeper · GitHub Actions
-🔗 [Repo](https://github.com/muhammadhammad2005/k8s-cicd-security-scanning)
+🔗 [Repo](https://github.com/muhammadhammadtech/k8s-cicd-security-scanning)
 
 ### 🎮 Kubernetes Rolling Deployments Demo
 A containerized Flask game used to demonstrate a full production deployment pipeline — Docker → Kubernetes (AWS EKS) → automated CI/CD with zero-downtime rolling updates.
 ⭐ 45 stars · **Stack:** Flask · Docker · Kubernetes · AWS EKS · GitHub Actions
-🔗 [Repo](https://github.com/muhammadhammad2005/rock-paper-scissors-k8s)
+🔗 [Repo](https://github.com/muhammadhammadtech/rock-paper-scissors-k8s)
 
 ### 🚀 StartupForge AI
 AI-powered SaaS toolkit that turns a raw startup idea into a business plan, landing page copy, and pricing strategy — built on Gemini AI with full CI/CD to Vercel.
 **Stack:** Gemini AI · Firebase · Vite · GitHub Actions
-🔗 [Live App](https://ai-startup-forge.vercel.app/) · [Repo](https://github.com/muhammadhammad2005/startupforge-ai)
+🔗 [Live App](https://ai-startup-forge.vercel.app/) · [Repo](https://github.com/muhammadhammadtech/startupforge-ai)
 
 ### 📱 Vaultly — Expense Tracker
 Full-stack mobile app live on the Google Play Store, with biometric security and automated CI/CD.
@@ -80,7 +80,7 @@ Full-stack mobile app live on the Google Play Store, with biometric security and
 ### 🐍 SerpByte
 A polished, dockerized browser Snake game — clean UI, smooth performance.
 **Stack:** JavaScript · Docker · Nginx · Vercel
-🔗 [Play Live](https://serpbyte.vercel.app) · [Repo](https://github.com/muhammadhammad2005/serpbyte)
+🔗 [Play Live](https://serpbyte.vercel.app) · [Repo](https://github.com/muhammadhammadtech/serpbyte)
 
 ---
 
@@ -90,14 +90,14 @@ A polished, dockerized browser Snake game — clean UI, smooth performance.
 
 | Track | Focus |
 |---|---|
-| [KCSA](https://github.com/muhammadhammad2005/KCSA) | Kubernetes security fundamentals, admission control |
-| [KCNA](https://github.com/muhammadhammad2005/KCNA) | Cloud native infrastructure & container orchestration |
-| [CKA](https://github.com/muhammadhammad2005/CKA) | Cluster administration, networking, troubleshooting |
-| [CKAD](https://github.com/muhammadhammad2005/CKAD) | Application design & deployment on Kubernetes |
-| [CKS](https://github.com/muhammadhammad2005/CKS) | Advanced cluster security, runtime threat detection |
-| [Docker](https://github.com/muhammadhammad2005/Docker) | Multi-container architectures, image build optimization |
-| [Ansible](https://github.com/muhammadhammad2005/Ansible) | Configuration management, secure vaults, provisioning |
-| [Linux](https://github.com/muhammadhammad2005/Linux) | System administration, Bash automation |
+| [KCSA](https://github.com/muhammadhammadtech/KCSA) | Kubernetes security fundamentals, admission control |
+| [KCNA](https://github.com/muhammadhammadtech/KCNA) | Cloud native infrastructure & container orchestration |
+| [CKA](https://github.com/muhammadhammadtech/CKA) | Cluster administration, networking, troubleshooting |
+| [CKAD](https://github.com/muhammadhammadtech/CKAD) | Application design & deployment on Kubernetes |
+| [CKS](https://github.com/muhammadhammadtech/CKS) | Advanced cluster security, runtime threat detection |
+| [Docker](https://github.com/muhammadhammadtech/Docker) | Multi-container architectures, image build optimization |
+| [Ansible](https://github.com/muhammadhammadtech/Ansible) | Configuration management, secure vaults, provisioning |
+| [Linux](https://github.com/muhammadhammadtech/Linux) | System administration, Bash automation |
 
 </div>
 
@@ -122,17 +122,17 @@ A polished, dockerized browser Snake game — clean UI, smooth performance.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/0-profile-details.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/0-profile-details.svg" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
-  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
   <br/><br/>
-  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/3-stats.svg" />
-  <img src="https://raw.githubusercontent.com/muhammadhammad2005/muhammadhammad2005/main/profile-summary-card-output/transparent/4-productive-time.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/muhammadhammadtech/muhammadhammadtech/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhammad2005&bg_color=00000000&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" width="820" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammadhammadtech&bg_color=00000000&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true" width="820" />
 </div>
 
 ---
